@@ -4,11 +4,6 @@
 
 ## 
 
-<div align="center">
-  <a href="https://github.com/chronald">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chronald&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chronald&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Chris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Chris-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
